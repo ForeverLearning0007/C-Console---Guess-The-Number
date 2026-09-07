@@ -41,7 +41,7 @@ int main()
     int number = distrib(gen);
 
     // 5. Print the result to the console
-    std::cout << "Random number between 1 and 10: " << number << std::endl;
+    // std::cout << "Random number between 1 and 10: " << number << std::endl;
 
     bool isRunning = true;
     int guess = 0;
